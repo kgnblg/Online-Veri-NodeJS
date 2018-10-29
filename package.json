@@ -1,0 +1,26 @@
+{
+  "name": "onlineveri",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cookie-parser": "^1.4.3",
+    "crypto": "^1.0.1",
+    "express": "^4.16.2",
+    "handlebars": "^4.0.11",
+    "mongoose": "^5.0.5",
+    "node-excel-stream": "^1.0.0",
+    "nodemailer": "^4.4.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://coloredstrategies.visualstudio.com/_git/AnketNode"
+  },
+  "author": "ASARDA",
+  "license": "MIT"
+}
